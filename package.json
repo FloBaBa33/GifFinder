@@ -1,0 +1,15 @@
+{
+  "name": "giffinder",
+  "version": "1.0.0",
+  "description": "A Package that returns both sfw and nsfw Gifs for the use in Discord Embeds",
+  "main": "index.js",
+  "keywords": [
+    "discord-embed",
+    "gif",
+    "sfw",
+    "nsfw",
+    "discord.js"
+  ],
+  "author": "FloBaBa33",
+  "license": "MIT"
+}
